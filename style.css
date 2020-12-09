@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(245 245 220);
+}
+h4 {
+    color: rgb(255 20 147);
+ 
+   div {
+    display: block;
+    background: rgb(220 220 220);
+    padding: 60px;
+    margin: 50px;
+    border-radius: 20px;}
+    
